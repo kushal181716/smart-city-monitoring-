@@ -1,0 +1,17 @@
+.features-section {
+    padding: 50px 20px;
+  }
+  
+  .features-grid {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .feature-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 30%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
